@@ -10,7 +10,7 @@ def connect_db():
         connection = mysql.connector.connect(
             host="localhost",
             user="root",
-            password="your_mysql_password"  # 🔁 replace this with your MySQL root password
+            password=King02432sley70seyram&$
         )
         if connection.is_connected():
             return connection
